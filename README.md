@@ -1,10 +1,5 @@
 # 🎨 Colored Default!
-
-**Give your Spotify a new color. Find your vibe. Make it yours.**
-
 A collection of **31 beautiful color schemes** for [Spicetify](https://spicetify.app/), inspired by popular color palettes, cozy aesthetics, vibrant neon lights, and minimal designs.
-
-From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, there's a palette for every mood.
 
 ## ✨ Features
 
@@ -16,9 +11,6 @@ From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, 
 * 🆓 Free and open source
 
 ## 🌈 Themes :
-
-<details>
-<summary><strong>Popular & Community-Inspired</strong></summary>
 
 * Dracula
 * Catppuccin Latte
@@ -32,12 +24,6 @@ From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, 
 * Everforest
 * Solarized Dark
 * Solarized Light
-
-</details>
-
-<details>
-<summary><strong>Aesthetic & Cozy</strong></summary>
-
 * Biscuit
 * Midnight Ocean
 * Matcha
@@ -49,12 +35,6 @@ From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, 
 * Plum Wine
 * Peach Sorbet
 * Desert Dusk
-
-</details>
-
-<details>
-<summary><strong>Bold & Atmospheric</strong></summary>
-
 * Cyberpunk
 * Mono Graphite
 * Vaporwave
@@ -63,8 +43,6 @@ From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, 
 * Ocean Glass
 * Glacier Blue
 * Retro Arcade
-
-</details>
 
 ## ❤️ Credits :
 
