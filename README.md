@@ -10,7 +10,7 @@ A collection of color schemes for [Spicetify](https://spicetify.app/), inspired 
 * 💜 Inspired by popular themes and aesthetic color combinations
 * 🎧 Designed to personalize your Spotify experience
 * 🛠️ Easy to configure with Spicetify
-* 
+
 ## 🌈 Themes :
 
 * Dracula
