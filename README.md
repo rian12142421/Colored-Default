@@ -66,8 +66,8 @@ From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, 
 
 </details>
 
-Credits :
+## ❤️ Credits :
 
 - IsItKz for making purplify : https://github.com/IsItKz/purplify-theme
-## ❤️ Credits
+
 
