@@ -1,7 +1,7 @@
 {
   "name": "Colored Default",
   "description": "A simple colorful theme for those who loves simplicity.",
-  "preview": "./assets/screenshot.png",
+  "preview": "./assets/cover.png",
   "readme": "README.md",
   "usercss": "./user.css",
   "schemes": "./color.ini",
