@@ -1,4 +1,4 @@
-# 🎨 Spicetify Color Schemes
+# 🎨 Colored Default!
 
 **Give your Spotify a new color. Find your vibe. Make it yours.**
 
@@ -15,7 +15,7 @@ From the soothing tones of Catppuccin to the atmospheric colors of Tokyo Night, 
 * 🛠️ Easy to configure with Spicetify
 * 🆓 Free and open source
 
-## 🌈 Available Color Schemes
+## 🌈 Themes :
 
 <details>
 <summary><strong>Popular & Community-Inspired</strong></summary>
