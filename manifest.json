@@ -1,13 +1,13 @@
 {
   "name": "Colored Default",
   "description": "A simple colorful theme for those who loves simplicity.",
-  "preview": "./assets/cover.png",
+  "preview": "./assets/cover.jpg",
   "readme": "README.md",
   "usercss": "./user.css",
   "schemes": "./color.ini",
   "authors": [
     {
-      "name": "rian12142421",
+      "name": "meph1sto",
       "url": "https://github.com/rian12142421"
     }
   ],
