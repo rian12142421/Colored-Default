@@ -1,0 +1,15 @@
+{
+  "name": "Colored Default",
+  "description": "A simple colorful theme for those who loves simplicity.",
+  "preview": "./assets/screenshot.png",
+  "readme": "README.md",
+  "usercss": "./user.css",
+  "schemes": "./color.ini",
+  "authors": [
+    {
+      "name": "meph1sto",
+      "url": "https://github.com/rian12142421"
+    }
+  ],
+  "tags": ["minimal", "colorful"]
+}
