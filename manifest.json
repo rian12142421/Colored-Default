@@ -1,5 +1,5 @@
 {
-  "name": "Colored Default",
+  "name": "Colorful Default",
   "description": "A simple colorful theme for those who love simplicity.",
   "preview": "cover.png",
   "readme": "README.md",
@@ -11,5 +11,5 @@
       "url": "https://github.com/rian12142421"
     }
   ],
-  "tags": ["minimal", "colorful"]
+  "tags": ["minimal", "colorful", "cozy"]
 }
