@@ -1,7 +1,7 @@
-# 🎨 Colored Default!
+# 🎨 Colorful Default!
 A collection of color schemes for [Spicetify](https://spicetify.app/), inspired by popular color palettes, cozy aesthetics, vibrant neon lights, and minimal designs.
 
-<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/3d96ef36-409c-490d-b920-5710d37fbea8" />
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/ef1dd02b-f545-45b5-b95d-1d821bf257e7" />
 
 ## ✨ Features
 
@@ -47,6 +47,4 @@ A collection of color schemes for [Spicetify](https://spicetify.app/), inspired 
 
 ## ❤️ Credits :
 
-- IsItKz for making purplify : https://github.com/IsItKz/purplify-theme
-
-
+IsItKz for making purplify : https://github.com/IsItKz/purplify-theme
