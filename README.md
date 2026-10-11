@@ -1,15 +1,16 @@
 # 🎨 Colored Default!
-A collection of **31 beautiful color schemes** for [Spicetify](https://spicetify.app/), inspired by popular color palettes, cozy aesthetics, vibrant neon lights, and minimal designs.
+A collection of color schemes for [Spicetify](https://spicetify.app/), inspired by popular color palettes, cozy aesthetics, vibrant neon lights, and minimal designs.
+
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/3d96ef36-409c-490d-b920-5710d37fbea8" />
 
 ## ✨ Features
 
-* 🎨 **31 unique color schemes** in one collection
+* 🎨 31 unique color schemes in one collection
 * 🌙 Dark and light color palettes
 * 💜 Inspired by popular themes and aesthetic color combinations
 * 🎧 Designed to personalize your Spotify experience
 * 🛠️ Easy to configure with Spicetify
-* 🆓 Free and open source
-
+* 
 ## 🌈 Themes :
 
 * Dracula
